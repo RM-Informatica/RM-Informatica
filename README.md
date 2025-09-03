@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rm-informatica/rm-informatica/main/Animação Contraste 1024x875 One by one.gif" width="400" alt="RM Informática Logo">
+  <img src="https://raw.githubusercontent.com/rm-informatica/rm-informatica/main/loop.gif" width="600" alt="RM Informática Logo">
 </p>
 
 # RM Informática 💻
