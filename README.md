@@ -24,7 +24,9 @@ Somos especializados em soluções tecnológicas para empresas e pessoas, oferec
 ---
 
 ## 🌐 Contato
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/5592999999999)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/seuusuario)
 📧 suporte@rminformatica.com.br  
 🌍 [rminformaticaam.com.br](https://rminformaticaam.com.br/)
 
