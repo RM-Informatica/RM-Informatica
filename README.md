@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/rm-informatica/rm-informatica/main/loop.gif" width="600" height="350" alt="RM Informática Logo">
 </p>
 
-# RM Informática 💻
+# RM Informática 💻               [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/5592999999999)  
 
 Bem-vindo ao perfil oficial da **RM Informática**.  
 Somos especializados em soluções tecnológicas para empresas e pessoas, oferecendo serviços de qualidade em TI, desenvolvimento e suporte.
