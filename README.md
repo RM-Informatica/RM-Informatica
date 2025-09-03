@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rm-informatica/rm-informatica/main/logo.jpg" width="200" alt="RM Informática Logo">
+  <img src="https://raw.githubusercontent.com/rm-informatica/rm-informatica/main/logo.png" width="200" alt="RM Informática Logo">
 </p>
 
 # RM Informática 💻
