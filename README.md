@@ -26,7 +26,7 @@ Somos especializados em soluções tecnológicas para empresas e pessoas, oferec
 ## 🌐 Contato
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/)  
 📧 suporte@rminformatica.com.br  
-🌍 [www.rminformatica.com.br](http://www.rminformatica.com.br)
+🌍 https://rminformaticaam.com.br/
 
 ---
 
