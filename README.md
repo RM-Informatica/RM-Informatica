@@ -1,32 +1,35 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fire+code&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1%2CRM+INFORMATICA)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rm-informatica/rm-informatica/main/logo.jpg" width="200" alt="RM Informática Logo">
+</p>
 
-- Transforme seu negócio com soluções de Automação Comercial e Sistemas especializados.
-- Venda, Suporte, Manutenção e Assistência Técnica Autorizada.
- 
-<!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rminformaticaam?igsh=d3l5Nm51bXUzdzB1_source=qr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://rminformaticaam.com.br/)
-<a href = "rminformaticaam.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+# RM Informática 💻
 
-<!-- GithubStats -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=feersantts&show_icons=true&theme=gotham)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feersantts&layout=compact&theme=gotham)](https://github.com/ArturBM/github-readme-stats)
-<div style="display: inline_block"><br>
-  <img align="center" alt="feer-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="feer-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="feer-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="feer-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
- 
-</div>
+Bem-vindo ao perfil oficial da **RM Informática**.  
+Somos especializados em soluções tecnológicas para empresas e pessoas, oferecendo serviços de qualidade em TI, desenvolvimento e suporte.
 
-<!-- Portfolio -->
-## Portfolio:
-- Em Breve..
-- Em Breve..
-- Em Breve..
+---
 
-<!-- GIF -->
-<p align="left">
-  <img align="center" src="black_icon_white_background.png" alt="Imagem">
-  <img align="right" alt-"rm" height="150" width="150" src="black_icon_white_background.png">
+## 🚀 O que fazemos
+- Suporte técnico e infraestrutura
+- Desenvolvimento de sistemas e sites
+- Consultoria em tecnologia
+- Manutenção de computadores e redes
+
+---
+
+## 📊 Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rm-informatica&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rm-informatica&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## 🌐 Contato
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/)  
+📧 suporte@rminformatica.com.br  
+🌍 [www.rminformatica.com.br](http://www.rminformatica.com.br)
+
+---
+
+<p align="center">
+  <i>“Tecnologia a serviço da sua empresa.”</i>
 </p>
